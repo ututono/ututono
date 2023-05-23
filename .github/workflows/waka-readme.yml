@@ -15,14 +15,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "master"
+          GH_TOKEN: ${{ github.token }}
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
           SHOW_TITLE: true
           BLOCKS: ->
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          LANG_COUNT: 5
