@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2023 - To: 22 May 2023
+From: 16 May 2023 - To: 23 May 2023
 
-Total Time: 11 hrs 8 mins
+Total Time: 8 hrs 43 mins
 
-Python           11 hrs 8 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python           8 hrs 43 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 Markdown         0 secs          -------------------------   00.00 %
 GitIgnore file   0 secs          -------------------------   00.00 %
 Text             0 secs          -------------------------   00.00 %
