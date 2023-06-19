@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 June 2023 - To: 16 June 2023
+From: 10 June 2023 - To: 17 June 2023
 
-Total Time: 17 hrs 31 mins
+Total Time: 15 hrs 48 mins
 
-Jupyter          17 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.11 %
-Python           9 mins          -------------------------   00.94 %
-GitIgnore file   9 mins          -------------------------   00.94 %
-Markdown         0 secs          -------------------------   00.01 %
+Jupyter          15 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.94 %
+GitIgnore file   9 mins          -------------------------   01.04 %
+Markdown         0 secs          -------------------------   00.02 %
+Python           0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
