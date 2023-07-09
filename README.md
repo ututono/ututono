@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 June 2023 - To: 06 July 2023
+From: 30 June 2023 - To: 07 July 2023
 
-Total Time: 17 hrs 22 mins
+Total Time: 17 hrs 42 mins
 
-Python           16 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>>--   92.23 %
-CSV/TSV          49 mins         >------------------------   04.72 %
-GitIgnore file   17 mins         -------------------------   01.69 %
-Bash             5 mins          -------------------------   00.52 %
-Jupyter          4 mins          -------------------------   00.45 %
+Python           16 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.16 %
+CSV/TSV          55 mins         >------------------------   05.22 %
+GitIgnore file   17 mins         -------------------------   01.66 %
+Bash             5 mins          -------------------------   00.51 %
+Shell Script     2 mins          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
