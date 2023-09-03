@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Total Time: 21 hrs 20 mins
+Total Time: 13 hrs 36 mins
 
-Python         14 hrs 28 mins  >>>>>>>>>>>>>>>>>--------   67.83 %
-Jupyter        3 hrs 27 mins   >>>>---------------------   16.17 %
-Perl           2 hrs 7 mins    >>-----------------------   09.96 %
-Bash           21 mins         -------------------------   01.72 %
-TSQL           18 mins         -------------------------   01.45 %
+Python         7 hrs 3 mins    >>>>>>>>>>>>>------------   51.84 %
+Jupyter        3 hrs 27 mins   >>>>>>-------------------   25.35 %
+Perl           2 hrs 7 mins    >>>>---------------------   15.61 %
+Bash           27 mins         >------------------------   03.35 %
+TSQL           11 mins         -------------------------   01.41 %
 ```
 
 <!--END_SECTION:waka-->
