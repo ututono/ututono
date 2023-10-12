@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: ubuntu:23.04
+    runs-on: ubuntu-latest
     permissions: 
       contents: write
     steps:
