@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2024 - To: 21 January 2024
+From: 15 January 2024 - To: 22 January 2024
 
-Total Time: 2 hrs 6 mins
+Total Time: 4 hrs 54 mins
 
-Python         1 hr 51 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.83 %
-Bash           7 mins          >>-----------------------   06.26 %
-JSON           3 mins          >------------------------   02.75 %
-Shell Script   2 mins          >------------------------   02.16 %
+Python         4 hrs 30 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.85 %
+Bash           15 mins         >------------------------   05.13 %
+Shell Script   5 mins          -------------------------   01.84 %
+JSON           3 mins          -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
