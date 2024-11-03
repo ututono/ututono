@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2024 - To: 31 October 2024
+From: 25 October 2024 - To: 01 November 2024
 
 Total Time: 0 secs
 
-No activity tracked
+Python         0 secs          >>>>>>>>>>>>-------------   48.29 %
+Shell Script   0 secs          >>>>>>>>>>>--------------   42.27 %
+Markdown       0 secs          >>-----------------------   09.45 %
 ```
 
 <!--END_SECTION:waka-->
