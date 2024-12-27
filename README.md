@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 24 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
-Total Time: 19 hrs 33 mins
+Total Time: 13 hrs 20 mins
 
-Rust             19 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.67 %
-GitIgnore file   9 mins          -------------------------   00.79 %
-Markdown         4 mins          -------------------------   00.42 %
-TOML             0 secs          -------------------------   00.07 %
-YAML             0 secs          -------------------------   00.06 %
+Rust             13 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.64 %
+GitIgnore file   9 mins          -------------------------   01.16 %
+TOML             0 secs          -------------------------   00.10 %
+YAML             0 secs          -------------------------   00.09 %
+Markdown         0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
