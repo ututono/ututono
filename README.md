@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Total Time: 5 hrs 43 mins
+Total Time: 10 hrs 38 mins
 
-Bash             2 hrs 12 mins   >>>>>>>>>>---------------   38.71 %
-Markdown         1 hr 16 mins    >>>>>>-------------------   22.23 %
-Python           1 hr 3 mins     >>>>>--------------------   18.64 %
-Shell Script     1 hr            >>>>---------------------   17.65 %
-YAML             8 mins          >------------------------   02.50 %
+Python           7 hrs 9 mins    >>>>>>>>>>>>>>>>>--------   67.30 %
+Bash             1 hr 41 mins    >>>>---------------------   15.84 %
+Markdown         1 hr 9 mins     >>>----------------------   10.88 %
+Shell Script     26 mins         >------------------------   04.18 %
+Text             10 mins         -------------------------   01.62 %
 ```
 
 <!--END_SECTION:waka-->
