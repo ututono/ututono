@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2025 - To: 02 August 2025
+From: 27 July 2025 - To: 03 August 2025
 
-Total Time: 6 mins
+Total Time: 3 hrs 40 mins
 
-HTML          2 mins          >>>>>>>>>>---------------   39.15 %
-JavaScript    2 mins          >>>>>>>>-----------------   32.97 %
-Markdown      0 secs          >>>>---------------------   14.59 %
-JSON          0 secs          >------------------------   03.68 %
-textmate      0 secs          >------------------------   02.70 %
+JavaScript       2 hrs 37 mins   >>>>>>>>>>>>>>>>>>-------   71.21 %
+Vue.js           43 mins         >>>>>--------------------   19.54 %
+JSON             13 mins         >>-----------------------   06.05 %
+HTML             2 mins          -------------------------   01.19 %
+XML              1 min           -------------------------   00.80 %
 ```
 
 <!--END_SECTION:waka-->
